@@ -78,13 +78,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <p>
 <img src="https://i.imgur.com/DBAeJ8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/YHcMMa6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/AtGwqKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/qOPgn5o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/0d8aeLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/xf19X0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/xcvfiNW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  img src="https://i.imgur.com/37YtPhQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/YHcMMa6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ < img src="https://i.imgur.com/AtGwqKl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/qOPgn5o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/0d8aeLk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/xf19X0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ < img src="https://i.imgur.com/xcvfiNW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ < img src="https://i.imgur.com/37YtPhQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
